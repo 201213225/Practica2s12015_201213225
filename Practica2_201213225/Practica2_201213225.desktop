@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Practica2_201213225
+Exec=/usr/bin/qmlscene $@ /usr/share/Practica2_201213225/Practica2_201213225.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
