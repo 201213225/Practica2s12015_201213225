@@ -12,8 +12,9 @@
         struct Nodo *izq;
         struct Nodo *der;
         int info;
+        int h;
     }Nodo;
     Nodo *incertar_nodo(Nodo *raiz, int info);
-
+    int actualizar_fe(Nodo *raiz);
 #endif	/* NODO_H */
 

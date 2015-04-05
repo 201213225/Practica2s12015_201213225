@@ -15,3 +15,6 @@ Nodo *incertar_nodo(Nodo *raiz, int info){
     }
     return raiz;
 }
+int actualizar_fe(Nodo *raiz){
+    
+}
